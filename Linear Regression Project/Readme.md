@@ -1,0 +1,1 @@
+The idea behind this project was to focuse on determining the relationship between one independent (explanatory variable) variable and one dependent variable. Which is why this model is called a Univariate model. Here we have performed Linear Regression with NumPy and Python with a simple dataset. 
